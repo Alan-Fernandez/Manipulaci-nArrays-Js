@@ -1,0 +1,22 @@
+{
+  "name": "manipulaci-narrays-js",
+  "version": "1.0.0",
+  "description": "arrays para crear estructuras de datos que te permitan resolver de una manera más rápida y eficiente los algoritmos que desees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Fernandez/Manipulaci-nArrays-Js.git"
+  },
+  "author": "@AlanFz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alan-Fernandez/Manipulaci-nArrays-Js/issues"
+  },
+  "homepage": "https://github.com/Alan-Fernandez/Manipulaci-nArrays-Js#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
